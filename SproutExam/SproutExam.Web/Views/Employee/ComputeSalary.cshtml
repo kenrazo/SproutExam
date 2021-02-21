@@ -1,0 +1,62 @@
+﻿@model SproutExam.Service.Dtos.ComputeSalaryInputDto
+
+@{
+    ViewData["Title"] = "ComputeSalary";
+}
+
+<h1>ComputeSalary</h1>
+
+<h4>ComputeSalaryInputDto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ComputeSalary">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeType" class="control-label" style="display:none;"></label>
+                <input asp-for="EmployeeType" class="form-control" value="@ViewBag.EmployeeType" style="display:none;" id="employeeType" />
+                <span asp-validation-for="EmployeeType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InputToCompute" class="control-label"></label>
+                <input asp-for="InputToCompute" class="form-control" id="input" />
+                <span asp-validation-for="InputToCompute" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" id="btnSubmit" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+<script>
+     var baseUrl = '@Url.Action("~")';
+    $("#btnSubmit").on('click',
+        function () {
+            event.preventDefault()
+
+            var filterItems = $.ajax({
+                type: 'POST',
+                url: '@Url.Action("ComputeSalary")',
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                async: false,
+                data: JSON.stringify(
+                    {
+                       'employeeType': $("#employeeType").val(),
+                       'inputToCompute': $("#input").val()
+                    }),
+                });
+
+                response = filterItems.responseJSON;
+            alert("Salary:" + response);
+
+            });
+</script>
+}

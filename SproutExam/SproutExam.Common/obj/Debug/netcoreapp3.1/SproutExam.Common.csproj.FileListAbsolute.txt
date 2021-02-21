@@ -1,0 +1,9 @@
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\bin\Debug\netcoreapp3.1\SproutExam.Common.deps.json
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\bin\Debug\netcoreapp3.1\SproutExam.Common.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\bin\Debug\netcoreapp3.1\SproutExam.Common.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.AssemblyInfoInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.AssemblyInfo.cs
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.csproj.CoreCompileInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Common\obj\Debug\netcoreapp3.1\SproutExam.Common.csprojAssemblyReference.cache

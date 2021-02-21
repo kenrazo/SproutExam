@@ -1,0 +1,9 @@
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\bin\Debug\netcoreapp3.1\SproutExam.DataAccess.deps.json
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\bin\Debug\netcoreapp3.1\SproutExam.DataAccess.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\bin\Debug\netcoreapp3.1\SproutExam.DataAccess.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.csprojAssemblyReference.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.AssemblyInfo.cs
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.DataAccess\obj\Debug\netcoreapp3.1\SproutExam.DataAccess.pdb

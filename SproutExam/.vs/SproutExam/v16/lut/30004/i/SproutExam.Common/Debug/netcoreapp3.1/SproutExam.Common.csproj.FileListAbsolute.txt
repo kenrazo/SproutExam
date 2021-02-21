@@ -1,0 +1,7 @@
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\b\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.deps.json
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\b\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.dll
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\i\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.csprojAssemblyReference.cache
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\i\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.AssemblyInfoInputs.cache
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\i\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.AssemblyInfo.cs
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\i\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.csproj.CopyComplete
+C:\Users\kenra\source\repos\SproutExam\.vs\SproutExam\v16\lut\0\i\SproutExam.Common\Debug\netcoreapp3.1\SproutExam.Common.dll

@@ -1,0 +1,14 @@
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.Service.deps.json
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.Service.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.Service.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.Common.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.Common.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.csprojAssemblyReference.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.AssemblyInfoInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.AssemblyInfo.cs
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.csproj.CoreCompileInputs.cache
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.csproj.CopyComplete
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\obj\Debug\netcoreapp3.1\SproutExam.Service.pdb
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.DataAccess.dll
+C:\Users\kenra\source\repos\SproutExam\SproutExam.Service\bin\Debug\netcoreapp3.1\SproutExam.DataAccess.pdb
