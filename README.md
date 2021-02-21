@@ -1,5 +1,5 @@
 # SproutExam
-This repository is for sprout examination
+This repository is for sprout employment exam
 
 
 If we are going to deploy this on production, what do you think the next improvement
